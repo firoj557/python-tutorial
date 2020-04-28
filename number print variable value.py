@@ -1,0 +1,11 @@
+"""Author: Firoj Kumar
+
+# Date: 28-04-2020
+
+# This program define number data type avlue!"""
+
+"""(5) print store in variable value"""
+a=123456789123456789123456789123456789123456789123456789123456789
+print(a)
+
+"""output= 123456789123456789123456789123456789123456789123456789123456789"""
